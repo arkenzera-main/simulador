@@ -3,4 +3,4 @@ Este repositório hospeda um aplicativo de simulação dos operador lógicos AND
 ## Autor
 Bruno Politi Romero
 ## APP
-![qrcode.png](https://arkenzera-main.github.io/simulador/)
+![qrcode](https://arkenzera-main.github.io/simulador/)
